@@ -1,0 +1,81 @@
+
+
+.body{
+    
+    font-family: Montserrat;
+}
+.text{
+
+font-style: normal;
+font-weight: 700;
+color: #0500FF;
+
+letter-spacing: 0em;
+text-align: left;
+
+}
+.text1{
+   color: blue;
+
+}
+.text2{
+    font-weight:300;
+    font-size: 85%;
+}
+.adds{
+    border: 0.25px solid black;
+    border-radius: 1vw;
+    box-shadow: 1px 9px 15px -1px rgba(0,0,0,0.55);
+    
+}
+.search-box{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin: auto;
+    position: relative;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+    
+}
+.iconholder{
+   display: flex;
+   justify-content: center;
+    
+}
+.typetosearch{
+    
+    width: 65%;
+    display: flex;
+    justify-content: center;
+}
+.icon{
+   width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+::placeholder {
+   
+    width: 80%;
+    font-size:100%;
+    padding: 2vh 0vh 2vh 2vh;
+}
+.box1{
+    border:0.25px solid black;
+
+} 
+.tags{
+    background-color: 
+    #E0E0E0;
+    
+}
+.tags{
+    text-align: center;
+    padding:10% 0 10% 0;
+    border-radius: 2vw;
+    
+}
